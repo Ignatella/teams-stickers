@@ -5,6 +5,8 @@
 Local Chromium (Chrome / Edge / Brave) MV3 extension that adds a 🐻 sticker picker to Microsoft Teams Web.
 No build step, no network, everything stays in the extension's IndexedDB.
 
+<p align="center"><img src="docs/picker.png" alt="Sticker picker in Teams" width="360"></p>
+
 ## Install
 
 1. `chrome://extensions` (or `edge://extensions`) → enable **Developer mode**
@@ -32,3 +34,10 @@ folder onto the manager. The folder name becomes the pack name.
 | TGS (animated Lottie) | not yet — convert to GIF/PNG first |
 
 **Insert size** in the manager scales stickers down before pasting (default 160 px) so they don't show up huge.
+
+## Disclaimer
+
+Unofficial project, not affiliated with or endorsed by Microsoft or Cartoon Network.
+No stickers are included — you import your own.
+We Bare Bears is a trademark of Cartoon Network. The bear art in this repo (`icons/`, `art/`) is original and MIT-licensed.
+Microsoft Teams is a trademark of Microsoft Corporation.

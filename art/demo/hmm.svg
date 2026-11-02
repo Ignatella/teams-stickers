@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  
+  <g fill="#fff" stroke="#fff" stroke-width="30" stroke-linejoin="round">
+    <ellipse cx="256" cy="395" rx="128" ry="92"/>
+    <circle cx="150" cy="118" r="52"/><circle cx="362" cy="118" r="52"/>
+    <circle cx="256" cy="232" r="132"/><ellipse cx="146" cy="400" rx="42" ry="58" transform="rotate(20 146 400)"/><ellipse cx="366" cy="400" rx="42" ry="58" transform="rotate(-20 366 400)"/><ellipse cx="330" cy="345" rx="40" ry="46"/></g>
+  <g fill="#8b5a3c" stroke="#2a1a10" stroke-width="6">
+    <ellipse cx="256" cy="395" rx="128" ry="92"/>
+    <circle cx="150" cy="118" r="52"/><circle cx="362" cy="118" r="52"/>
+  </g>
+  <ellipse cx="256" cy="410" rx="78" ry="58" fill="#c48d66"/>
+  <circle cx="150" cy="118" r="26" fill="#e8b4a0"/><circle cx="362" cy="118" r="26" fill="#e8b4a0"/>
+  <circle cx="256" cy="232" r="132" fill="#8b5a3c" stroke="#2a1a10" stroke-width="6"/>
+  <ellipse cx="256" cy="292" rx="64" ry="48" fill="#ecd3b4"/>
+  
+  <circle cx="205" cy="225" r="17" fill="#2a1a10"/><circle cx="307" cy="225" r="17" fill="#2a1a10"/><circle cx="210" cy="214" r="7" fill="#fff"/><circle cx="312" cy="214" r="7" fill="#fff"/>
+  <ellipse cx="256" cy="268" rx="26" ry="18" fill="#2a1a10"/>
+  <ellipse cx="248" cy="262" rx="8" ry="5" fill="#fff" opacity=".7"/>
+  <path d="M238 310h36" stroke="#2a1a10" stroke-width="8" stroke-linecap="round"/>
+  <g fill="#8b5a3c" stroke="#2a1a10" stroke-width="6"><ellipse cx="146" cy="400" rx="42" ry="58" transform="rotate(20 146 400)"/><ellipse cx="366" cy="400" rx="42" ry="58" transform="rotate(-20 366 400)"/></g>
+  <g fill="#8b5a3c" stroke="#2a1a10" stroke-width="6"><ellipse cx="330" cy="345" rx="40" ry="46"/></g><g transform="translate(330 345) scale(0.9)" fill="#ecd3b4"><ellipse cx="0" cy="8" rx="16" ry="13"/><circle cx="-16" cy="-12" r="7"/><circle cx="0" cy="-18" r="7"/><circle cx="16" cy="-12" r="7"/></g><text x="440" y="140" transform="rotate(12 440 140)" text-anchor="middle" font-family="Arial Black, Helvetica, sans-serif" font-weight="900" font-size="130" fill="#5b5fc7" stroke="#fff" stroke-width="18" stroke-linejoin="round" paint-order="stroke">?</text>
+</svg>

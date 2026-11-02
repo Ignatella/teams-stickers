@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  
+  <g fill="#fff" stroke="#fff" stroke-width="30" stroke-linejoin="round">
+    <ellipse cx="256" cy="395" rx="128" ry="92"/>
+    <circle cx="150" cy="118" r="52"/><circle cx="362" cy="118" r="52"/>
+    <circle cx="256" cy="232" r="132"/><ellipse cx="146" cy="400" rx="42" ry="58" transform="rotate(20 146 400)"/><ellipse cx="366" cy="400" rx="42" ry="58" transform="rotate(-20 366 400)"/><path d="M206 360h100v70q0 26-26 26h-48q-26 0-26-26Z"/><path d="M306 378q34 0 34 26t-34 26" fill="none"/></g>
+  <g fill="#8b5a3c" stroke="#2a1a10" stroke-width="6">
+    <ellipse cx="256" cy="395" rx="128" ry="92"/>
+    <circle cx="150" cy="118" r="52"/><circle cx="362" cy="118" r="52"/>
+  </g>
+  <ellipse cx="256" cy="410" rx="78" ry="58" fill="#c48d66"/>
+  <circle cx="150" cy="118" r="26" fill="#e8b4a0"/><circle cx="362" cy="118" r="26" fill="#e8b4a0"/>
+  <circle cx="256" cy="232" r="132" fill="#8b5a3c" stroke="#2a1a10" stroke-width="6"/>
+  <ellipse cx="256" cy="292" rx="64" ry="48" fill="#ecd3b4"/>
+  <ellipse cx="168" cy="275" rx="22" ry="13" fill="#ff6b8a" opacity=".45"/><ellipse cx="344" cy="275" rx="22" ry="13" fill="#ff6b8a" opacity=".45"/>
+  <path d="M186 222h38M288 222h38" stroke="#2a1a10" stroke-width="9" stroke-linecap="round"/><path d="M190 224a15 12 0 0 0 30 0M292 224a15 12 0 0 0 30 0" fill="#2a1a10"/>
+  <ellipse cx="256" cy="268" rx="26" ry="18" fill="#2a1a10"/>
+  <ellipse cx="248" cy="262" rx="8" ry="5" fill="#fff" opacity=".7"/>
+  <path d="M238 310h36" stroke="#2a1a10" stroke-width="8" stroke-linecap="round"/>
+  <g fill="#8b5a3c" stroke="#2a1a10" stroke-width="6"><ellipse cx="146" cy="400" rx="42" ry="58" transform="rotate(20 146 400)"/><ellipse cx="366" cy="400" rx="42" ry="58" transform="rotate(-20 366 400)"/></g>
+  <g fill="#fff" stroke="#2a1a10" stroke-width="6"><path d="M206 360h100v70q0 26-26 26h-48q-26 0-26-26Z"/><path d="M306 378q34 0 34 26t-34 26" fill="none"/></g><path d="M206 382h100" stroke="#5b5fc7" stroke-width="14"/><path d="M352 352q-10-14 0-26t0-26M374 360q-10-14 0-26t0-26" stroke="#ccc" stroke-width="7" stroke-linecap="round" fill="none"/><text x="420" y="480" transform="rotate(-8 420 480)" text-anchor="middle" font-family="Arial Black, Helvetica, sans-serif" font-weight="900" font-size="70" fill="#5b5fc7" stroke="#fff" stroke-width="18" stroke-linejoin="round" paint-order="stroke">brb</text>
+</svg>

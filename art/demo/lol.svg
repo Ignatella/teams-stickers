@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  
+  <g fill="#fff" stroke="#fff" stroke-width="30" stroke-linejoin="round">
+    <ellipse cx="256" cy="395" rx="128" ry="92"/>
+    <circle cx="150" cy="118" r="52"/><circle cx="362" cy="118" r="52"/>
+    <circle cx="256" cy="232" r="132"/><ellipse cx="146" cy="400" rx="42" ry="58" transform="rotate(20 146 400)"/><ellipse cx="366" cy="400" rx="42" ry="58" transform="rotate(-20 366 400)"/></g>
+  <g fill="#8b5a3c" stroke="#2a1a10" stroke-width="6">
+    <ellipse cx="256" cy="395" rx="128" ry="92"/>
+    <circle cx="150" cy="118" r="52"/><circle cx="362" cy="118" r="52"/>
+  </g>
+  <ellipse cx="256" cy="410" rx="78" ry="58" fill="#c48d66"/>
+  <circle cx="150" cy="118" r="26" fill="#e8b4a0"/><circle cx="362" cy="118" r="26" fill="#e8b4a0"/>
+  <circle cx="256" cy="232" r="132" fill="#8b5a3c" stroke="#2a1a10" stroke-width="6"/>
+  <ellipse cx="256" cy="292" rx="64" ry="48" fill="#ecd3b4"/>
+  <ellipse cx="168" cy="275" rx="22" ry="13" fill="#ff6b8a" opacity=".45"/><ellipse cx="344" cy="275" rx="22" ry="13" fill="#ff6b8a" opacity=".45"/>
+  <path d="M186 214l34 14-34 14M326 214l-34 14 34 14" stroke="#2a1a10" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <ellipse cx="256" cy="268" rx="26" ry="18" fill="#2a1a10"/>
+  <ellipse cx="248" cy="262" rx="8" ry="5" fill="#fff" opacity=".7"/>
+  <path d="M226 296q30 4 60 0q-4 44-30 44t-30-44Z" fill="#7a2e2e" stroke="#2a1a10" stroke-width="6"/><path d="M238 326q18-12 36 0q-6 12-18 12t-18-12Z" fill="#ff6b8a"/>
+  <g fill="#8b5a3c" stroke="#2a1a10" stroke-width="6"><ellipse cx="146" cy="400" rx="42" ry="58" transform="rotate(20 146 400)"/><ellipse cx="366" cy="400" rx="42" ry="58" transform="rotate(-20 366 400)"/></g>
+  <path d="M168 246q-22 22-8 40q14-6 8-40ZM344 246q22 22 8 40q-14-6-8-40Z" fill="#6fb7ff" stroke="#2a1a10" stroke-width="4"/><text x="256" y="500" transform="rotate(0 256 500)" text-anchor="middle" font-family="Arial Black, Helvetica, sans-serif" font-weight="900" font-size="84" fill="#5b5fc7" stroke="#fff" stroke-width="18" stroke-linejoin="round" paint-order="stroke">LOL</text>
+</svg>

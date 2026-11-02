@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Teams Stickers</title>
+  <link rel="stylesheet" href="manager.css">
+</head>
+<body>
+  <header>
+    <h1>🐻 Teams Stickers</h1>
+    <label>Insert size
+      <select id="size">
+        <option value="96">96 px</option>
+        <option value="128">128 px</option>
+        <option value="160">160 px</option>
+        <option value="256">256 px</option>
+        <option value="0">Original</option>
+      </select>
+    </label>
+    <label>Background
+      <select id="bgMode">
+        <option value="#3d3d3d">Teams dark</option>
+        <option value="#ffffff">Teams light</option>
+        <option value="">Transparent</option>
+        <option value="custom">Custom…</option>
+      </select>
+      <input id="bgColor" type="color" hidden>
+    </label>
+  </header>
+
+  <section class="import">
+    <h2>Import</h2>
+    <div class="row">
+      <input id="pack" placeholder="Pack name (default: folder name)">
+      <label class="btn">Choose files<input id="files" type="file" multiple accept=".png,.jpg,.jpeg,.gif,.webp,.webm,.tgs" hidden></label>
+      <label class="btn">Choose folder<input id="folder" type="file" webkitdirectory hidden></label>
+    </div>
+    <div id="drop">Drop sticker files or folders here<br><small>PNG · WebP · GIF · JPG · WebM (first frame)</small></div>
+    <div id="log"></div>
+  </section>
+
+  <section>
+    <div class="row">
+      <h2>Library <span id="count"></span></h2>
+      <input id="filter" type="search" placeholder="Filter…">
+      <select id="packFilter"></select>
+      <button id="deletePack" class="danger" hidden>Delete pack</button>
+    </div>
+    <div id="lib"></div>
+  </section>
+
+  <script type="module" src="manager.js"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+.DS_Store
+*.zip
+*.crx
+*.pem
+node_modules/
+.idea/
+.vscode/
+
+# local sticker files — don't publish copyrighted art
+stickers/
+*.tgs
+*.webm
